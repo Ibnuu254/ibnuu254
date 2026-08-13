@@ -26,4 +26,4 @@ OPEN TO WORK ·
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ibnuu254.Ibnuu254)
 
 ## 🎵 Spotify Now Playing
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31rfxfv6pkldak7i4wcrdgkvyirq&cover_image=true&theme=default)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=flow_ctx=28090c7a-8bb8-41ee-b368-98511159c718%3A1786650830&cover_image=true&theme=default)
